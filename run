@@ -1,0 +1,6 @@
+#!/bin/bash
+# Putting here to remember
+
+run() {
+    dotnet run --project $1
+}
