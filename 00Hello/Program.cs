@@ -123,5 +123,38 @@ class Program
         string r = "Kunta Kinte";
         Console.WriteLine($"My name is {r}");
         // Any type can be interpolated. C# will convert the string by calling ToString() on the type
+
+        /// raw strings are also interpolated
+        string html = $"""
+            <div>
+                <p>{p}</p>
+            </div>
+            """;
+
+        // You can even do this
+        // The double $$ changes the sequence from {} to {{}}
+        // Should come in handy later
+        string PlaceInPlace = $$"""The value of { html : {{html}} } """;
+        Console.WriteLine(PlaceInPlace);
+
+        char[] s = new char[5];
+        char[] t = { 'a', 'b', 'c', 'd', 'e', 'f', 'g' };
+        // arrays once created cannot change size
+
+        // from C# 12 you can also use []
+        // char[] t1 = ['1', '2', '3'];
+        // You can pass this directly to a function
+        // before:
+        // toString(new char[] {'l', 'e', '0'})
+        // after:
+        // toString(['a', 'b', 'c', 'd'])
+
+        // you can index the array from the front and from the back
+        Console.WriteLine($"From the front of T {t[0]}");
+        Console.WriteLine($"From the back of T {t[^1]}");
+
+        // You can also create slices in C#
+        char[] u = t[..2]; // creates a slice of the first two
+        char[] u1 = t[2..];
     }
 }
