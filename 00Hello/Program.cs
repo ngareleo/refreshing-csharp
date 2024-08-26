@@ -160,6 +160,25 @@ class Program
         // You can even get the last n
         char[] u2 = t[^3..]; // The last two
         Pretty(u2);
+
+        // initializing an array, creates an array of n default elements
+        int[] u3 = new int[10];
+        Pretty(u3); // should print 10 zeros, since 0 is the default value for integrals
+        Point[] u4 = new Point[10];
+        Pretty(u4); // as for structs, their default value is the default value for each field
+        WriteLine($$"""First point { x: {{u4[0].X}}, y: {{u4[0].Y}} }""");
+
+        // as for reference types, the default value is null
+        OopPoint[] u5 = new OopPoint[3];
+        Pretty(u5);
+
+        // You can initialize multi-dim arrays like this
+        int[,] u6 =
+        {
+            { 1, 2, 3 },
+            { 4, 5, 6 },
+        };
+        
     }
 
     private static void Pretty<T>(T[] elements)
