@@ -1,7 +1,6 @@
 ﻿using static System.Console; // using static imports types and hence you can import static methods Like here we've imported all the static methods of System.Console
 
-// We've created a value type
-public struct Point
+struct Point
 {
     public int X,
         Y;
@@ -178,7 +177,6 @@ class Program
             { 1, 2, 3 },
             { 4, 5, 6 },
         };
-        
     }
 
     private static void Pretty<T>(T[] elements)
