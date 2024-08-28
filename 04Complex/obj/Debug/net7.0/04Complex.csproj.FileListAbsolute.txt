@@ -1,0 +1,15 @@
+/Users/leo/Projects/refreshing-csharp/04Complex/bin/Debug/net7.0/04Complex
+/Users/leo/Projects/refreshing-csharp/04Complex/bin/Debug/net7.0/04Complex.deps.json
+/Users/leo/Projects/refreshing-csharp/04Complex/bin/Debug/net7.0/04Complex.runtimeconfig.json
+/Users/leo/Projects/refreshing-csharp/04Complex/bin/Debug/net7.0/04Complex.dll
+/Users/leo/Projects/refreshing-csharp/04Complex/bin/Debug/net7.0/04Complex.pdb
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.csproj.AssemblyReference.cache
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.AssemblyInfoInputs.cache
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.AssemblyInfo.cs
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.csproj.CoreCompileInputs.cache
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.dll
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/refint/04Complex.dll
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.pdb
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/04Complex.genruntimeconfig.cache
+/Users/leo/Projects/refreshing-csharp/04Complex/obj/Debug/net7.0/ref/04Complex.dll
