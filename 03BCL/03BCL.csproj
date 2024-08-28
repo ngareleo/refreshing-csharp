@@ -3,10 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>_01Types</RootNamespace>
+    <RootNamespace>_03BCL</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <LangVersion>12.0.0</LangVersion>
   </PropertyGroup>
 
 </Project>
