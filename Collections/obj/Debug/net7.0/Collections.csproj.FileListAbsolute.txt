@@ -1,0 +1,15 @@
+/Users/leo/Projects/refreshing-csharp/Collections/bin/Debug/net7.0/Collections
+/Users/leo/Projects/refreshing-csharp/Collections/bin/Debug/net7.0/Collections.deps.json
+/Users/leo/Projects/refreshing-csharp/Collections/bin/Debug/net7.0/Collections.runtimeconfig.json
+/Users/leo/Projects/refreshing-csharp/Collections/bin/Debug/net7.0/Collections.dll
+/Users/leo/Projects/refreshing-csharp/Collections/bin/Debug/net7.0/Collections.pdb
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.csproj.AssemblyReference.cache
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.AssemblyInfoInputs.cache
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.AssemblyInfo.cs
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.csproj.CoreCompileInputs.cache
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.dll
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/refint/Collections.dll
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.pdb
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/Collections.genruntimeconfig.cache
+/Users/leo/Projects/refreshing-csharp/Collections/obj/Debug/net7.0/ref/Collections.dll

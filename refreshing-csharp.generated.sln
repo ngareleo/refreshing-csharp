@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03BCL", "03BCL\03BCL.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Complex", "04Complex\04Complex.csproj", "{F2CB38B5-0753-4BEC-B8F2-8B4A5D407A84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{F7CCA0FC-52DD-499F-8F8E-F37A66CEFCA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06LINQ", "06LINQ\06LINQ.csproj", "{835B6A96-ECFD-499B-85E5-857501599191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F2CB38B5-0753-4BEC-B8F2-8B4A5D407A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CB38B5-0753-4BEC-B8F2-8B4A5D407A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CB38B5-0753-4BEC-B8F2-8B4A5D407A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CCA0FC-52DD-499F-8F8E-F37A66CEFCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CCA0FC-52DD-499F-8F8E-F37A66CEFCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CCA0FC-52DD-499F-8F8E-F37A66CEFCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CCA0FC-52DD-499F-8F8E-F37A66CEFCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835B6A96-ECFD-499B-85E5-857501599191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835B6A96-ECFD-499B-85E5-857501599191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835B6A96-ECFD-499B-85E5-857501599191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835B6A96-ECFD-499B-85E5-857501599191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
